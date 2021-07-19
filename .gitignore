@@ -2,4 +2,7 @@
 *-cache.lib
 *.sch-bak
 *-cache
+*.kicad_pcb-bak
+sym-lib-table
+*.dcm
 
